@@ -1,0 +1,39 @@
+.container1{
+    color: whitesmoke;
+      
+   
+}
+body {
+	background-color: #fff;
+	color: #000;
+	font-family: 'proxima-nova' serif;
+	font-size: 18px;
+	font-size: 1.8rem;
+	font-weight: 10;
+	line-height: 1.875;
+	margin: 0;
+} 
+
+#animation {
+    
+    margin-top: 100;
+}
+
+#title  {
+
+    
+    font-size: 100px;
+
+    animation: bounce 2s linear 1s infinite;
+  }
+  @keyframes title {
+    20% {
+      transform: translateY(-15px);
+    }
+    
+  }
+  
+
+
+
+    
